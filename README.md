@@ -1,7 +1,12 @@
 Python-Tutorials
 ================
 
-- #1 Intro.ipynb
+------
+
+Work through the files in this order:
+------
+
+- Intro.ipynb
 
 - - - - 
 
