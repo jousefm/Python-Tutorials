@@ -1,7 +1,7 @@
 Python-Tutorials
 ================
 
-First Jupyter Notebooks will follow soon.
+- #1 Intro.ipynb
 
 - - - - 
 
