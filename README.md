@@ -12,7 +12,7 @@ Python-Tutorials
 
 #### 1. Introduction
 
-- 💻 **[Code | ](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)** - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
+- 💻 **[Code | ](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)**
 
 ------
 
