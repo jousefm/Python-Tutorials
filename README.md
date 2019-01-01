@@ -1,7 +1,7 @@
 Python-Tutorials
 ================
 
-# Intro - Machine Learning 
+# Intro - Python
 
 > This repository is for people starting with their **Python** journey. 
 > It is my goal to make the tutorials as easy as possible no matter how complex the topic is! 
