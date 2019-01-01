@@ -12,7 +12,7 @@ Python-Tutorials
 
 #### 1. Introduction
 
-- 💻 **[Code | Introduction](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)**
+- 💻 **[Code | Introduction](https://github.com/jousefm/Python-Tutorials/blob/master/Projects/Intro.ipynb)**
 
 ------
 
