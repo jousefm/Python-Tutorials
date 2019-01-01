@@ -8,7 +8,7 @@ Python-Tutorials
 
 #### 0. Tips & Tricks
 
-- 📗 **[Programming | Tips & Tricks](https://github.com/jousefm/Python-Tutorials/blob/master/Intro.ipynb)** - Top 5 tips for programming newbies
+- 📗 **[Programming | Tips & Tricks](https://github.com/jousefm/Python-Tutorials/blob/master/TipsNTricks.ipynb)** - Top 5 tips for programming newbies
 
 #### 1. Introduction
 
