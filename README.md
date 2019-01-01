@@ -8,7 +8,9 @@ Work through the files in this order:
 
 - Intro.ipynb
 
-- - - - 
+
+
+### Social Media
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 <!--[2.1]: <img src="https://images.vogue.it/wp-content/uploads/2016/05/12161706/squared19-320x400.jpg" width="25">-->
@@ -22,6 +24,6 @@ Work through the files in this order:
 [2]: https://www.instagram.com/jousefmrd/
 [6]: https://github.com/jousefm
 
-### Social Media
+
 Follow me on [![alt text][1.1]][1] and of course [![alt text][6.1]][6] 
 and [<img src="https://images.vogue.it/wp-content/uploads/2016/05/12161706/squared19-320x400.jpg" width="25">][2] 
