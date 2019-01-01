@@ -1,18 +1,12 @@
 Python-Tutorials
 ================
 
-------
-
-Work through the files in this order:
-------
-
-- Intro.ipynb
-
 # Intro - Machine Learning 
 
-> This repository is for people starting with machine learning with **Python** trying to understand the basic mathematics. In this particular repository you can find the tutorials from **[sentdex](https://www.youtube.com/user/sentdex)**
-> **Jupyter Notebooks** allow you to play with training data (Quandl etc.), different algorithm configurations and see results on the fly directly in **your browser**.
-> Resources will be given at the very bottom of this document!
+> This repository is for people starting with their **Python** journey. 
+> It is my goal to make the tutorials as easy as possible no matter how complex the topic is! 
+> If you have any specific wishes you can contact me via my social media channels listed at the very bottom. 
+> What are you waiting for? Let's get right into it :-)
 
 #### Tips & Tricks
 
@@ -20,8 +14,9 @@ Work through the files in this order:
 
 #### 1. Introduction
 
-- 💻 **[Code | Linear Regression](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)** - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
+- 💻 **[Code | ](https://github.com/jousefm/Machine-Learning-Sentdex/blob/master/Intro.ipynb)** - implementation example from **[sentdex](https://www.youtube.com/user/sentdex)**
 
+------
 
 ### Social Media
 
