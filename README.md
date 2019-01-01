@@ -1,14 +1,12 @@
 Python-Tutorials
 ================
 
-# Intro - Python
-
 > This repository is for people starting with their **Python** journey. 
 > It is my goal to make the tutorials as easy as possible no matter how complex the topic is! 
 > If you have any specific wishes you can contact me via my social media channels listed at the very bottom. 
 > What are you waiting for? Let's get right into it :-)
 
-#### Tips & Tricks
+#### 0. Tips & Tricks
 
 - 📗 **[Programming | Tips & Tricks](https://github.com/jousefm/Python-Tutorials/blob/master/Intro.ipynb)** - Top 5 tips for programming newbies
 
