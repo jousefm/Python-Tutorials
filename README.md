@@ -14,7 +14,7 @@ Python-Tutorials
 
 - 💻 **[Homework  | Code](https://github.com/jousefm/Python-Tutorials/blob/master/Homework/Intro.ipynb)**
 
-- 💻 **[Homework  | Solution - TO-DO!](To-do)**
+- 💻 **[Homework  | Solution](https://github.com/jousefm/Python-Tutorials/blob/master/Solutions/Sol-Homework-1.ipynb)**
 
 ------
 
