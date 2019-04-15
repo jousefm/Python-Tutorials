@@ -6,6 +6,16 @@ Python-Tutorials
 > If you have any specific wishes you can contact me via my social media channels listed at the very bottom. 
 > What are you waiting for? Let's get right into it :-)
 
+How to safe Jupyter Notebooks
+=====================
+
+1. First click on **Raw**
+2. Then, press **CTRL+S** to save it as **.ipynb**
+3. Open Jupyter Notebook
+4. Go to location where you saved .ipynb file
+5. Open file, you will see the code
+
+
 #### 0. Tips & Tricks
 
 - 📗 **[Programming | Tips & Tricks](https://github.com/jousefm/Python-Tutorials/blob/master/TipsNTricks.ipynb)** - Top 5 tips for programming newbies
