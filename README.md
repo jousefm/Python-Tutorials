@@ -6,7 +6,7 @@ Python-Tutorials
 > If you have any specific wishes you can contact me via my social media channels listed at the very bottom. 
 > What are you waiting for? Let's get right into it :-)
 
-How to safe Jupyter Notebooks
+How to save Jupyter Notebooks
 =====================
 
 1. First click on **Raw**
