@@ -12,7 +12,7 @@ Python-Tutorials
 
 #### 1. Introduction
 
-- 💻 **[Homework  | Code](https://github.com/jousefm/Python-Tutorials/blob/master/Homework/Intro.ipynb)**
+- 💻 **[Homework  | Code](https://github.com/jousefm/Python-Tutorials/blob/master/Homework/Homework-1.ipynb)**
 
 - 💻 **[Homework  | Solution](https://github.com/jousefm/Python-Tutorials/blob/master/Solutions/Sol-Homework-1.ipynb)**
 
